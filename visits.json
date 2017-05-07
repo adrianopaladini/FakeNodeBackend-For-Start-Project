@@ -1,0 +1,1436 @@
+[
+        {
+        "_id":"2017-11-15",
+        "events":        [
+                        {
+                "_id":"59ecd911df23911cb830d562",
+                "checkedin":0,
+                "code":"BR171022.154449.470",
+                "hosts":                [
+                                        {
+                        "email":"adpalad@br.ibm.com",
+                        "name":"Adriano C Paladini",
+                        "uid":"050924631",
+                    }
+                ],
+                "name":"qwerty",
+                "owner":                {
+                    "email":"adpalad@br.ibm.com",
+                    "name":"Adriano C Paladini",
+                    "uid":"050924631",
+                },
+                "totalVisitors":1,
+                "visitors":                [
+                                        {
+                        "name":"qwerty",
+                    }
+                ],
+            }
+        ],
+        "totalEvents":1,
+    },
+        {
+        "_id":"2017-11-20",
+        "events":        [
+                        {
+                "_id":"59ecd9239eb26d1cb15a032f",
+
+                "checkedin":0,
+                "code":"BR171022.15457.486",
+                "hosts":                [
+                                        {
+                        "email":"adpalad@br.ibm.com",
+                        "name":"Adriano C Paladini",
+                        "uid":"050924631",
+
+                    }
+                ],
+                "name":"asdfghj",
+
+                "owner":                {
+                    "email":"adpalad@br.ibm.com",
+                    "name":"Adriano C Paladini",
+                    "uid":"050924631",
+
+                },
+                "totalVisitors":1,
+                "visitors":                [
+                                        {
+                        "name":"asdfghj",
+
+                    }
+                ],
+            }
+        ],
+        "totalevents":1,
+    },
+        {
+        "_id":"2017-11-21",
+        "events":        [
+                        {
+                "_id":"59ecd9239eb26d1cb15a032d",
+
+                "checkedin":0,
+                "code":"BR171022.15457.486",
+                "hosts":                [
+                                        {
+                        "email":"adpalad@br.ibm.com",
+                        "name":"Adriano C Paladini",
+                        "uid":"050924631",
+
+                    }
+                ],
+                "name":"asdfghj",
+
+                "owner":                {
+                    "email":"adpalad@br.ibm.com",
+                    "name":"Adriano C Paladini",
+                    "uid":"050924631",
+
+                },
+                "totalVisitors":1,
+                "visitors":                [
+                                        {
+                        "name":"asdfghj",
+
+                    }
+                ],
+            }
+        ],
+        "totalevents":1,
+    },
+        {
+        "_id":"2017-11-22",
+        "events":        [
+                        {
+                "_id":"59ecd9239eb26d1cb15a032b",
+
+                "checkedin":0,
+                "code":"BR171022.15457.486",
+                "hosts":                [
+                                        {
+                        "email":"adpalad@br.ibm.com",
+                        "name":"Adriano C Paladini",
+                        "uid":"050924631",
+
+                    }
+                ],
+                "name":"asdfghj",
+
+                "owner":                {
+                    "email":"adpalad@br.ibm.com",
+                    "name":"Adriano C Paladini",
+                    "uid":"050924631",
+
+                },
+                "totalVisitors":1,
+                "visitors":                [
+                                        {
+                        "name":"asdfghj",
+
+                    }
+                ],
+            }
+        ],
+        "totalevents":1,
+    },
+        {
+        "_id":"2017-12-01",
+        "events":        [
+                        {
+                "_id":"59ecbf0656e9b41cab1ebb58",
+
+                "checkedin":0,
+                "code":"BR171022.135342.621",
+                "hosts":                [
+                                        {
+                        "email":"adpalad@br.ibm.com",
+                        "name":"Adriano C Paladini",
+                        "uid":"050924631",
+
+                    }
+                ],
+                "name":"34567456",
+
+                "owner":                {
+                    "email":"adpalad@br.ibm.com",
+                    "name":"Adriano C Paladini",
+                    "uid":"050924631",
+
+                },
+                "totalVisitors":1,
+                "visitors":                [
+                                        {
+                        "name":"34567456",
+
+                    }
+                ],
+            },
+                        {
+                "_id":"59ed1b4f56e9b41cab1ebb97",
+
+                "checkedin":0,
+                "code":"BR171022.202727.527",
+                "hosts":                [
+                                        {
+                        "email":"adpalad@br.ibm.com",
+                        "name":"Adriano C Paladini",
+                        "uid":"050924631",
+
+                    }
+                ],
+                "name":"aaaaa",
+
+                "owner":                {
+                    "email":"adpalad@br.ibm.com",
+                    "name":"Adriano C Paladini",
+                    "uid":"050924631",
+
+                },
+                "totalVisitors":1,
+                "visitors":                [
+                                        {
+                        "name":"aaaaa",
+
+                    }
+                ],
+            }
+        ],
+        "totalevents":2,
+    },
+        {
+        "_id":"2017-12-02",
+        "events":        [
+                        {
+                "_id":"59ed1b4f56e9b41cab1ebb89",
+
+                "checkedin":0,
+                "code":"BR171022.202727.527",
+                "hosts":                [
+                                        {
+                        "email":"adpalad@br.ibm.com",
+                        "name":"Adriano C Paladini",
+                        "uid":"050924631",
+
+                    }
+                ],
+                "name":"aaaaa",
+
+                "owner":                {
+                    "email":"adpalad@br.ibm.com",
+                    "name":"Adriano C Paladini",
+                    "uid":"050924631",
+
+                },
+                "totalVisitors":1,
+                "visitors":                [
+                                        {
+                        "name":"aaaaa",
+
+                    }
+                ],
+            }
+        ],
+        "totalevents":1,
+    },
+        {
+        "_id":"2017-12-03",
+        "events":        [
+                        {
+                "_id":"59ed1b4f56e9b41cab1ebb83",
+
+                "checkedin":0,
+                "code":"BR171022.202727.527",
+                "hosts":                [
+                                        {
+                        "email":"adpalad@br.ibm.com",
+                        "name":"Adriano C Paladini",
+                        "uid":"050924631",
+
+                    }
+                ],
+                "name":"aaaaa",
+
+                "owner":                {
+                    "email":"adpalad@br.ibm.com",
+                    "name":"Adriano C Paladini",
+                    "uid":"050924631",
+
+                },
+                "totalVisitors":1,
+                "visitors":                [
+                                        {
+                        "name":"aaaaa",
+
+                    }
+                ],
+            }
+        ],
+        "totalevents":1,
+    },
+        {
+        "_id":"2017-12-04",
+        "events":        [
+                        {
+                "_id":"59ecd95a174b251ca5fb8b7f",
+
+                "checkedin":0,
+                "code":"BR171022.15462.255",
+                "hosts":                [
+                                        {
+                        "email":"adpalad@br.ibm.com",
+                        "name":"Adriano C Paladini",
+                        "uid":"050924631",
+
+                    }
+                ],
+                "name":"xcvbn",
+
+                "owner":                {
+                    "email":"adpalad@br.ibm.com",
+                    "name":"Adriano C Paladini",
+                    "uid":"050924631",
+
+                },
+                "totalVisitors":1,
+                "visitors":                [
+                                        {
+                        "name":"xcvbn",
+
+                    }
+                ],
+            },
+                        {
+                "_id":"59ed1b4f56e9b41cab1ebb8f",
+
+                "checkedin":0,
+                "code":"BR171022.202727.527",
+                "hosts":                [
+                                        {
+                        "email":"adpalad@br.ibm.com",
+                        "name":"Adriano C Paladini",
+                        "uid":"050924631",
+
+                    }
+                ],
+                "name":"aaaaa",
+
+                "owner":                {
+                    "email":"adpalad@br.ibm.com",
+                    "name":"Adriano C Paladini",
+                    "uid":"050924631",
+
+                },
+                "totalVisitors":1,
+                "visitors":                [
+                                        {
+                        "name":"aaaaa",
+
+                    }
+                ],
+            }
+        ],
+        "totalevents":2,
+    },
+        {
+        "_id":"2017-12-05",
+        "events":        [
+                        {
+                "_id":"59ecd95a174b251ca5fb8b75",
+
+                "checkedin":0,
+                "code":"BR171022.15462.255",
+                "hosts":                [
+                                        {
+                        "email":"adpalad@br.ibm.com",
+                        "name":"Adriano C Paladini",
+                        "uid":"050924631",
+
+                    }
+                ],
+                "name":"xcvbn",
+
+                "owner":                {
+                    "email":"adpalad@br.ibm.com",
+                    "name":"Adriano C Paladini",
+                    "uid":"050924631",
+
+                },
+                "totalVisitors":1,
+                "visitors":                [
+                                        {
+                        "name":"xcvbn",
+
+                    }
+                ],
+            },
+                        {
+                "_id":"59ed1b4f56e9b41cab1ebb77",
+
+                "checkedin":0,
+                "code":"BR171022.202727.527",
+                "hosts":                [
+                                        {
+                        "email":"adpalad@br.ibm.com",
+                        "name":"Adriano C Paladini",
+                        "uid":"050924631",
+
+                    }
+                ],
+                "name":"aaaaa",
+
+                "owner":                {
+                    "email":"adpalad@br.ibm.com",
+                    "name":"Adriano C Paladini",
+                    "uid":"050924631",
+
+                },
+                "totalVisitors":1,
+                "visitors":                [
+                                        {
+                        "name":"aaaaa",
+
+                    }
+                ],
+            }
+        ],
+        "totalevents":2,
+    },
+        {
+        "_id":"2017-12-06",
+        "events":        [
+                        {
+                "_id":"59ecd95a174b251ca5fb8b6d",
+
+                "checkedin":0,
+                "code":"BR171022.15462.255",
+                "hosts":                [
+                                        {
+                        "email":"adpalad@br.ibm.com",
+                        "name":"Adriano C Paladini",
+                        "uid":"050924631",
+
+                    }
+                ],
+                "name":"xcvbn",
+
+                "owner":                {
+                    "email":"adpalad@br.ibm.com",
+                    "name":"Adriano C Paladini",
+                    "uid":"050924631",
+
+                },
+                "totalVisitors":1,
+                "visitors":                [
+                                        {
+                        "name":"xcvbn",
+
+                    }
+                ],
+            },
+                        {
+                "_id":"59ed1b4f56e9b41cab1ebb71",
+
+                "checkedin":0,
+                "code":"BR171022.202727.527",
+                "hosts":                [
+                                        {
+                        "email":"adpalad@br.ibm.com",
+                        "name":"Adriano C Paladini",
+                        "uid":"050924631",
+
+                    }
+                ],
+                "name":"aaaaa",
+
+                "owner":                {
+                    "email":"adpalad@br.ibm.com",
+                    "name":"Adriano C Paladini",
+                    "uid":"050924631",
+
+                },
+                "totalVisitors":1,
+                "visitors":                [
+                                        {
+                        "name":"aaaaa",
+
+                    }
+                ],
+            }
+        ],
+        "totalevents":2,
+    },
+        {
+        "_id":"2017-12-07",
+        "events":        [
+                        {
+                "_id":"59ecd95a174b251ca5fb8b7b",
+
+                "checkedin":0,
+                "code":"BR171022.15462.255",
+                "hosts":                [
+                                        {
+                        "email":"adpalad@br.ibm.com",
+                        "name":"Adriano C Paladini",
+                        "uid":"050924631",
+
+                    }
+                ],
+                "name":"xcvbn",
+
+                "owner":                {
+                    "email":"adpalad@br.ibm.com",
+                    "name":"Adriano C Paladini",
+                    "uid":"050924631",
+
+                },
+                "totalVisitors":1,
+                "visitors":                [
+                                        {
+                        "name":"xcvbn",
+
+                    }
+                ],
+            },
+                        {
+                "_id":"59ed1b4f56e9b41cab1ebb7d",
+
+                "checkedin":0,
+                "code":"BR171022.202727.527",
+                "hosts":                [
+                                        {
+                        "email":"adpalad@br.ibm.com",
+                        "name":"Adriano C Paladini",
+                        "uid":"050924631",
+
+                    }
+                ],
+                "name":"aaaaa",
+
+                "owner":                {
+                    "email":"adpalad@br.ibm.com",
+                    "name":"Adriano C Paladini",
+                    "uid":"050924631",
+
+                },
+                "totalVisitors":1,
+                "visitors":                [
+                                        {
+                        "name":"aaaaa",
+
+                    }
+                ],
+            }
+        ],
+        "totalevents":2,
+    },
+        {
+        "_id":"2017-12-08",
+        "events":        [
+                        {
+                "_id":"59ed1b4f56e9b41cab1ebb95",
+
+                "checkedin":0,
+                "code":"BR171022.202727.527",
+                "hosts":                [
+                                        {
+                        "email":"adpalad@br.ibm.com",
+                        "name":"Adriano C Paladini",
+                        "uid":"050924631",
+
+                    }
+                ],
+                "name":"aaaaa",
+
+                "owner":                {
+                    "email":"adpalad@br.ibm.com",
+                    "name":"Adriano C Paladini",
+                    "uid":"050924631",
+
+                },
+                "totalVisitors":1,
+                "visitors":                [
+                                        {
+                        "name":"aaaaa",
+
+                    }
+                ],
+            }
+        ],
+        "totalevents":1,
+    },
+        {
+        "_id":"2017-12-09",
+        "events":        [
+                        {
+                "_id":"59ed1b4f56e9b41cab1ebb87",
+
+                "checkedin":0,
+                "code":"BR171022.202727.527",
+                "hosts":                [
+                                        {
+                        "email":"adpalad@br.ibm.com",
+                        "name":"Adriano C Paladini",
+                        "uid":"050924631",
+
+                    }
+                ],
+                "name":"aaaaa",
+
+                "owner":                {
+                    "email":"adpalad@br.ibm.com",
+                    "name":"Adriano C Paladini",
+                    "uid":"050924631",
+
+                },
+                "totalVisitors":1,
+                "visitors":                [
+                                        {
+                        "name":"aaaaa",
+
+                    }
+                ],
+            }
+        ],
+        "totalevents":1,
+    },
+        {
+        "_id":"2017-12-10",
+        "events":        [
+                        {
+                "_id":"59ed1b4f56e9b41cab1ebb81",
+
+                "checkedin":0,
+                "code":"BR171022.202727.527",
+                "hosts":                [
+                                        {
+                        "email":"adpalad@br.ibm.com",
+                        "name":"Adriano C Paladini",
+                        "uid":"050924631",
+
+                    }
+                ],
+                "name":"aaaaa",
+
+                "owner":                {
+                    "email":"adpalad@br.ibm.com",
+                    "name":"Adriano C Paladini",
+                    "uid":"050924631",
+
+                },
+                "totalVisitors":1,
+                "visitors":                [
+                                        {
+                        "name":"aaaaa",
+
+                    }
+                ],
+            }
+        ],
+        "totalevents":1,
+    },
+        {
+        "_id":"2017-12-11",
+        "events":        [
+                        {
+                "_id":"59ed1b4f56e9b41cab1ebb8d",
+
+                "checkedin":0,
+                "code":"BR171022.202727.527",
+                "hosts":                [
+                                        {
+                        "email":"adpalad@br.ibm.com",
+                        "name":"Adriano C Paladini",
+                        "uid":"050924631",
+
+                    }
+                ],
+                "name":"aaaaa",
+
+                "owner":                {
+                    "email":"adpalad@br.ibm.com",
+                    "name":"Adriano C Paladini",
+                    "uid":"050924631",
+
+                },
+                "totalVisitors":1,
+                "visitors":                [
+                                        {
+                        "name":"aaaaa",
+
+                    }
+                ],
+            }
+        ],
+        "totalevents":1,
+    },
+        {
+        "_id":"2017-12-12",
+        "events":        [
+                        {
+                "_id":"59ecd95a174b251ca5fb8b73",
+
+                "checkedin":0,
+                "code":"BR171022.15462.255",
+                "hosts":                [
+                                        {
+                        "email":"adpalad@br.ibm.com",
+                        "name":"Adriano C Paladini",
+                        "uid":"050924631",
+
+                    }
+                ],
+                "name":"xcvbn",
+
+                "owner":                {
+                    "email":"adpalad@br.ibm.com",
+                    "name":"Adriano C Paladini",
+                    "uid":"050924631",
+
+                },
+                "totalVisitors":1,
+                "visitors":                [
+                                        {
+                        "name":"xcvbn",
+
+                    }
+                ],
+            },
+                        {
+                "_id":"59ed1b4f56e9b41cab1ebb75",
+
+                "checkedin":0,
+                "code":"BR171022.202727.527",
+                "hosts":                [
+                                        {
+                        "email":"adpalad@br.ibm.com",
+                        "name":"Adriano C Paladini",
+                        "uid":"050924631",
+
+                    }
+                ],
+                "name":"aaaaa",
+
+                "owner":                {
+                    "email":"adpalad@br.ibm.com",
+                    "name":"Adriano C Paladini",
+                    "uid":"050924631",
+
+                },
+                "totalVisitors":1,
+                "visitors":                [
+                                        {
+                        "name":"aaaaa",
+
+                    }
+                ],
+            }
+        ],
+        "totalevents":2,
+    },
+        {
+        "_id":"2017-12-13",
+        "events":        [
+                        {
+                "_id":"59ecd95a174b251ca5fb8b6b",
+
+                "checkedin":0,
+                "code":"BR171022.15462.255",
+                "hosts":                [
+                                        {
+                        "email":"adpalad@br.ibm.com",
+                        "name":"Adriano C Paladini",
+                        "uid":"050924631",
+
+                    }
+                ],
+                "name":"xcvbn",
+
+                "owner":                {
+                    "email":"adpalad@br.ibm.com",
+                    "name":"Adriano C Paladini",
+                    "uid":"050924631",
+
+                },
+                "totalVisitors":1,
+                "visitors":                [
+                                        {
+                        "name":"xcvbn",
+
+                    }
+                ],
+            },
+                        {
+                "_id":"59ed1b4f56e9b41cab1ebb6f",
+
+                "checkedin":0,
+                "code":"BR171022.202727.527",
+                "hosts":                [
+                                        {
+                        "email":"adpalad@br.ibm.com",
+                        "name":"Adriano C Paladini",
+                        "uid":"050924631",
+
+                    }
+                ],
+                "name":"aaaaa",
+
+                "owner":                {
+                    "email":"adpalad@br.ibm.com",
+                    "name":"Adriano C Paladini",
+                    "uid":"050924631",
+
+                },
+                "totalVisitors":1,
+                "visitors":                [
+                                        {
+                        "name":"aaaaa",
+
+                    }
+                ],
+            }
+        ],
+        "totalevents":2,
+    },
+        {
+        "_id":"2017-12-14",
+        "events":        [
+                        {
+                "_id":"59ecd95a174b251ca5fb8b79",
+
+                "checkedin":0,
+                "code":"BR171022.15462.255",
+                "hosts":                [
+                                        {
+                        "email":"adpalad@br.ibm.com",
+                        "name":"Adriano C Paladini",
+                        "uid":"050924631",
+
+                    }
+                ],
+                "name":"xcvbn",
+
+                "owner":                {
+                    "email":"adpalad@br.ibm.com",
+                    "name":"Adriano C Paladini",
+                    "uid":"050924631",
+
+                },
+                "totalVisitors":1,
+                "visitors":                [
+                                        {
+                        "name":"xcvbn",
+
+                    }
+                ],
+            },
+                        {
+                "_id":"59ed1b4f56e9b41cab1ebb7b",
+
+                "checkedin":0,
+                "code":"BR171022.202727.527",
+                "hosts":                [
+                                        {
+                        "email":"adpalad@br.ibm.com",
+                        "name":"Adriano C Paladini",
+                        "uid":"050924631",
+
+                    }
+                ],
+                "name":"aaaaa",
+
+                "owner":                {
+                    "email":"adpalad@br.ibm.com",
+                    "name":"Adriano C Paladini",
+                    "uid":"050924631",
+
+                },
+                "totalVisitors":1,
+                "visitors":                [
+                                        {
+                        "name":"aaaaa",
+
+                    }
+                ],
+            }
+        ],
+        "totalevents":2,
+    },
+        {
+        "_id":"2017-12-15",
+        "events":        [
+                        {
+                "_id":"59ecd95a174b251ca5fb8b81",
+
+                "checkedin":0,
+                "code":"BR171022.15462.255",
+                "hosts":                [
+                                        {
+                        "email":"adpalad@br.ibm.com",
+                        "name":"Adriano C Paladini",
+                        "uid":"050924631",
+
+                    }
+                ],
+                "name":"xcvbn",
+
+                "owner":                {
+                    "email":"adpalad@br.ibm.com",
+                    "name":"Adriano C Paladini",
+                    "uid":"050924631",
+
+                },
+                "totalVisitors":1,
+                "visitors":                [
+                                        {
+                        "name":"xcvbn",
+
+                    }
+                ],
+            },
+                        {
+                "_id":"59ed1b4f56e9b41cab1ebb93",
+
+                "checkedin":0,
+                "code":"BR171022.202727.527",
+                "hosts":                [
+                                        {
+                        "email":"adpalad@br.ibm.com",
+                        "name":"Adriano C Paladini",
+                        "uid":"050924631",
+
+                    }
+                ],
+                "name":"aaaaa",
+
+                "owner":                {
+                    "email":"adpalad@br.ibm.com",
+                    "name":"Adriano C Paladini",
+                    "uid":"050924631",
+
+                },
+                "totalVisitors":1,
+                "visitors":                [
+                                        {
+                        "name":"aaaaa",
+
+                    }
+                ],
+            }
+        ],
+        "totalevents":2,
+    },
+        {
+        "_id":"2017-12-16",
+        "events":        [
+                        {
+                "_id":"59ed1b4f56e9b41cab1ebb85",
+
+                "checkedin":0,
+                "code":"BR171022.202727.527",
+                "hosts":                [
+                                        {
+                        "email":"adpalad@br.ibm.com",
+                        "name":"Adriano C Paladini",
+                        "uid":"050924631",
+
+                    }
+                ],
+                "name":"aaaaa",
+
+                "owner":                {
+                    "email":"adpalad@br.ibm.com",
+                    "name":"Adriano C Paladini",
+                    "uid":"050924631",
+
+                },
+                "totalVisitors":1,
+                "visitors":                [
+                                        {
+                        "name":"aaaaa",
+
+                    }
+                ],
+            }
+        ],
+        "totalevents":1,
+    },
+        {
+        "_id":"2017-12-17",
+        "events":        [
+                        {
+                "_id":"59ed1b4f56e9b41cab1ebb7f",
+
+                "checkedin":0,
+                "code":"BR171022.202727.527",
+                "hosts":                [
+                                        {
+                        "email":"adpalad@br.ibm.com",
+                        "name":"Adriano C Paladini",
+                        "uid":"050924631",
+
+                    }
+                ],
+                "name":"aaaaa",
+
+                "owner":                {
+                    "email":"adpalad@br.ibm.com",
+                    "name":"Adriano C Paladini",
+                    "uid":"050924631",
+
+                },
+                "totalVisitors":1,
+                "visitors":                [
+                                        {
+                        "name":"aaaaa",
+
+                    }
+                ],
+            }
+        ],
+        "totalevents":1,
+    },
+        {
+        "_id":"2017-12-18",
+        "events":        [
+                        {
+                "_id":"59ed1b4f56e9b41cab1ebb8b",
+
+                "checkedin":0,
+                "code":"BR171022.202727.527",
+                "hosts":                [
+                                        {
+                        "email":"adpalad@br.ibm.com",
+                        "name":"Adriano C Paladini",
+                        "uid":"050924631",
+
+                    }
+                ],
+                "name":"aaaaa",
+
+                "owner":                {
+                    "email":"adpalad@br.ibm.com",
+                    "name":"Adriano C Paladini",
+                    "uid":"050924631",
+
+                },
+                "totalVisitors":1,
+                "visitors":                [
+                                        {
+                        "name":"aaaaa",
+
+                    }
+                ],
+            }
+        ],
+        "totalevents":1,
+    },
+        {
+        "_id":"2017-12-19",
+        "events":        [
+                        {
+                "_id":"59ecd95a174b251ca5fb8b71",
+
+                "checkedin":0,
+                "code":"BR171022.15462.255",
+                "hosts":                [
+                                        {
+                        "email":"adpalad@br.ibm.com",
+                        "name":"Adriano C Paladini",
+                        "uid":"050924631",
+
+                    }
+                ],
+                "name":"xcvbn",
+
+                "owner":                {
+                    "email":"adpalad@br.ibm.com",
+                    "name":"Adriano C Paladini",
+                    "uid":"050924631",
+
+                },
+                "totalVisitors":1,
+                "visitors":                [
+                                        {
+                        "name":"xcvbn",
+
+                    }
+                ],
+            },
+                        {
+                "_id":"59ed1b4f56e9b41cab1ebb73",
+
+                "checkedin":0,
+                "code":"BR171022.202727.527",
+                "hosts":                [
+                                        {
+                        "email":"adpalad@br.ibm.com",
+                        "name":"Adriano C Paladini",
+                        "uid":"050924631",
+
+                    }
+                ],
+                "name":"aaaaa",
+
+                "owner":                {
+                    "email":"adpalad@br.ibm.com",
+                    "name":"Adriano C Paladini",
+                    "uid":"050924631",
+
+                },
+                "totalVisitors":1,
+                "visitors":                [
+                                        {
+                        "name":"aaaaa",
+
+                    }
+                ],
+            }
+        ],
+        "totalevents":2,
+    },
+        {
+        "_id":"2017-12-20",
+        "events":        [
+                        {
+                "_id":"59ed1b4f56e9b41cab1ebb6d",
+
+                "checkedin":0,
+                "code":"BR171022.202727.527",
+                "hosts":                [
+                                        {
+                        "email":"adpalad@br.ibm.com",
+                        "name":"Adriano C Paladini",
+                        "uid":"050924631",
+
+                    }
+                ],
+                "name":"aaaaa",
+
+                "owner":                {
+                    "email":"adpalad@br.ibm.com",
+                    "name":"Adriano C Paladini",
+                    "uid":"050924631",
+
+                },
+                "totalVisitors":1,
+                "visitors":                [
+                                        {
+                        "name":"aaaaa",
+
+                    }
+                ],
+            }
+        ],
+        "totalevents":1,
+    },
+        {
+        "_id":"2017-12-21",
+        "events":        [
+                        {
+                "_id":"59ed1b4f56e9b41cab1ebb79",
+
+                "checkedin":0,
+                "code":"BR171022.202727.527",
+                "hosts":                [
+                                        {
+                        "email":"adpalad@br.ibm.com",
+                        "name":"Adriano C Paladini",
+                        "uid":"050924631",
+
+                    }
+                ],
+                "name":"aaaaa",
+
+                "owner":                {
+                    "email":"adpalad@br.ibm.com",
+                    "name":"Adriano C Paladini",
+                    "uid":"050924631",
+
+                },
+                "totalVisitors":1,
+                "visitors":                [
+                                        {
+                        "name":"aaaaa",
+
+                    }
+                ],
+            }
+        ],
+        "totalevents":1,
+    },
+        {
+        "_id":"2017-12-22",
+        "events":        [
+                        {
+                "_id":"59ed1b4f56e9b41cab1ebb91",
+
+                "checkedin":0,
+                "code":"BR171022.202727.527",
+                "hosts":                [
+                                        {
+                        "email":"adpalad@br.ibm.com",
+                        "name":"Adriano C Paladini",
+                        "uid":"050924631",
+
+                    }
+                ],
+                "name":"aaaaa",
+
+                "owner":                {
+                    "email":"adpalad@br.ibm.com",
+                    "name":"Adriano C Paladini",
+                    "uid":"050924631",
+
+                },
+                "totalVisitors":1,
+                "visitors":                [
+                                        {
+                        "name":"aaaaa",
+
+                    }
+                ],
+            }
+        ],
+        "totalevents":1,
+    },
+        {
+        "_id":"2017-12-25",
+        "events":        [
+                        {
+                "_id":"59ecd95a174b251ca5fb8b7d",
+
+                "checkedin":0,
+                "code":"BR171022.15462.255",
+                "hosts":                [
+                                        {
+                        "email":"adpalad@br.ibm.com",
+                        "name":"Adriano C Paladini",
+                        "uid":"050924631",
+
+                    }
+                ],
+                "name":"xcvbn",
+
+                "owner":                {
+                    "email":"adpalad@br.ibm.com",
+                    "name":"Adriano C Paladini",
+                    "uid":"050924631",
+
+                },
+                "totalVisitors":1,
+                "visitors":                [
+                                        {
+                        "name":"xcvbn",
+
+                    }
+                ],
+            }
+        ],
+        "totalevents":1,
+    },
+        {
+        "_id":"2017-12-26",
+        "events":        [
+                        {
+                "_id":"59ecd95a174b251ca5fb8b6f",
+
+                "checkedin":0,
+                "code":"BR171022.15462.255",
+                "hosts":                [
+                                        {
+                        "email":"adpalad@br.ibm.com",
+                        "name":"Adriano C Paladini",
+                        "uid":"050924631",
+
+                    }
+                ],
+                "name":"xcvbn",
+
+                "owner":                {
+                    "email":"adpalad@br.ibm.com",
+                    "name":"Adriano C Paladini",
+                    "uid":"050924631",
+
+                },
+                "totalVisitors":1,
+                "visitors":                [
+                                        {
+                        "name":"xcvbn",
+
+                    }
+                ],
+            }
+        ],
+        "totalevents":1,
+    },
+        {
+        "_id":"2017-12-27",
+        "events":        [
+                        {
+                "_id":"59ecd95a174b251ca5fb8b69",
+
+                "checkedin":0,
+                "code":"BR171022.15462.255",
+                "hosts":                [
+                                        {
+                        "email":"adpalad@br.ibm.com",
+                        "name":"Adriano C Paladini",
+                        "uid":"050924631",
+
+                    }
+                ],
+                "name":"xcvbn",
+
+                "owner":                {
+                    "email":"adpalad@br.ibm.com",
+                    "name":"Adriano C Paladini",
+                    "uid":"050924631",
+
+                },
+                "totalVisitors":1,
+                "visitors":                [
+                                        {
+                        "name":"xcvbn",
+
+                    }
+                ],
+            }
+        ],
+        "totalevents":1,
+    },
+        {
+        "_id":"2017-12-28",
+        "events":        [
+                        {
+                "_id":"59ecd95a174b251ca5fb8b77",
+
+                "checkedin":0,
+                "code":"BR171022.15462.255",
+                "hosts":                [
+                                        {
+                        "email":"adpalad@br.ibm.com",
+                        "name":"Adriano C Paladini",
+                        "uid":"050924631",
+
+                    }
+                ],
+                "name":"xcvbn",
+
+                "owner":                {
+                    "email":"adpalad@br.ibm.com",
+                    "name":"Adriano C Paladini",
+                    "uid":"050924631",
+
+                },
+                "totalVisitors":1,
+                "visitors":                [
+                                        {
+                        "name":"xcvbn",
+
+                    }
+                ],
+            }
+        ],
+        "totalevents":1,
+    },
+        {
+        "_id":"2017-12-31",
+        "events":        [
+                        {
+                "_id":"59ed1b64df23911cb830d576",
+
+                "checkedin":0,
+                "code":"BR171022.202748.669",
+                "hosts":                [
+                                        {
+                        "email":"adpalad@br.ibm.com",
+                        "name":"Adriano C Paladini",
+                        "uid":"050924631",
+
+                    }
+                ],
+                "name":"last 50",
+                "owner":                {
+                    "email":"adpalad@br.ibm.com",
+                    "name":"Adriano C Paladini",
+                    "uid":"050924631",
+
+                },
+                "totalVisitors":1,
+                "visitors":                [
+                                        {
+                        "name":"last 50",
+                    }
+                ],
+            }
+        ],
+        "totalevents":1,
+    },
+        {
+        "_id":"2018-01-01",
+        "events":        [
+                        {
+                "_id":"59ed1b7bdf23911cb830d57b",
+
+                "checkedin":0,
+                "code":"BR171022.202811.520",
+                "hosts":                [
+                                        {
+                        "email":"adpalad@br.ibm.com",
+                        "name":"Adriano C Paladini",
+                        "uid":"050924631",
+
+                    }
+                ],
+                "name":"test 51, 52",
+                "owner":                {
+                    "email":"adpalad@br.ibm.com",
+                    "name":"Adriano C Paladini",
+                    "uid":"050924631",
+
+                },
+                "totalVisitors":1,
+                "visitors":                [
+                                        {
+                        "name":"test 51, 52",
+                    }
+                ],
+            }
+        ],
+        "totalevents":1,
+    },
+        {
+        "_id":"2018-01-02",
+        "events":        [
+                        {
+                "_id":"59ed1b7bdf23911cb830d579",
+
+                "checkedin":0,
+                "code":"BR171022.202811.520",
+                "hosts":                [
+                                        {
+                        "email":"adpalad@br.ibm.com",
+                        "name":"Adriano C Paladini",
+                        "uid":"050924631",
+
+                    }
+                ],
+                "name":"test 51, 52",
+                "owner":                {
+                    "email":"adpalad@br.ibm.com",
+                    "name":"Adriano C Paladini",
+                    "uid":"050924631",
+
+                },
+                "totalVisitors":1,
+                "visitors":                [
+                                        {
+                        "name":"test 51, 52",
+                    }
+                ],
+            }
+        ],
+        "totalevents":1,
+    }
+]

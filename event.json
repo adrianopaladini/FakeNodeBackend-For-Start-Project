@@ -1,0 +1,41 @@
+{
+    "event":{
+        "_id":"59ecd911df23911cb830d562",
+        "date":"2017-11-16T01:59:59.999Z",
+        "hosts":[
+                        {
+                "_id":"5999de369e749a2816febced",
+                "email":"adpalad@br.ibm.com",
+                "name":"Adriano C Paladini",
+                "uid":"050924631"
+            }
+        ],
+        "visitors":[
+                        {
+                "_id":"59ecd911df23911cb830d563",
+                "citizenship":{
+                    "_id":"59e0e6cde11d8980e52c7a15",
+                    "abbreviation":"BR",
+                    "continent":"SA",
+                    "language":"pt-br",
+                    "name":"Brazil"
+                },
+                "documentId":{
+                    "idType":{
+                        "_id":"599884a35d90c10bddd66cfb",
+                        "name":"Passport"
+                    },
+                    "number":"45678"
+                },
+                "lang":"pt-BR",
+                "name":"qwerty"
+            }
+        ]
+    },
+    "events":[
+                {
+            "_id":"59ecd911df23911cb830d562",
+            "date":"2017-11-16T01:59:59.999Z"
+        }
+    ]
+}

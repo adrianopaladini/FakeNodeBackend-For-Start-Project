@@ -1,0 +1,16 @@
+[
+    {
+        "_id":"599884a35d90c10bddd66cfb",
+        "isActive":false,
+        "isEnabled":true,
+        "name":"Passport",
+        "sort":1
+    },
+    {
+        "_id":"59a59ab2f4c5d249b2dc90de",
+        "isActive":true,
+        "isEnabled":true,
+        "name":"RG",
+        "sort":1
+    }
+]

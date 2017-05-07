@@ -1,0 +1,18 @@
+{
+  "name": "fake",
+  "version": "0.0.1",
+  "description": "fake",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "breakingbug@br.ibm.com",
+  "license": "ISC",
+  "engines": {
+    "node": "7.8.x"
+  },
+  "dependencies": {
+    "express": "^4.16.2",
+    "fs": "0.0.1-security"
+  }
+}

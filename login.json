@@ -1,0 +1,40 @@
+{
+    "access":{
+        "erc":[
+            "59e0e6cbe11d8980e52c79b8"
+        ],
+        "isERC":true,
+        "isGlobal":true,
+        "isLocal":false,
+        "isOperator":false,
+        "localAdmin":[]
+    },
+    "role":"GLOBAL",
+    "token":"3521a519-b55e-4f46-8ed2-f25539490032",
+    "user":    {
+        "_id":"5999de369e749a2816febced",
+        "country":        {
+            "_id":"599884a35d90c10bddd66cfa",
+            "abbreviation":"br",
+            "areas":            [],
+            "code":"631",
+            "consent":            {
+                "pi":"implied",
+                "spi":"implied"
+            },
+            "dpl":false,
+            "ero":false,
+            "isEnabled":true,
+            "name":"BRAZIL",
+            "print":"PDF",
+            "revalidation":true
+        },
+        "email":"adpalad@br.ibm.com",
+        "language":"en-us",
+        "location":"599884a45d90c10bddd66d00",
+        "name":"Adriano C Paladini",
+        "operatorSite":"599884a45d90c10bddd66d17",
+        "terms":"2017-09-09T00:07:32.783Z",
+        "uid":"050924631"
+    }
+}
